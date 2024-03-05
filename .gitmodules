@@ -1,3 +1,6 @@
 [submodule "fm-recipe-page"]
 	path = fm-recipe-page
 	url = https://github.com/garynks/fm-recipe-page.git
+[submodule "fm-stats-cmpnt"]
+	path = fm-stats-cmpnt
+	url = git@github.com:garynks/fm-stats-cmpnt.git
